@@ -1,0 +1,16 @@
+h1 {
+color: rgb(18, 71, 116);
+}
+h2 {
+    color:blanchedalmond
+}
+
+p {
+color: rgba(34, 41, 138, 0.418);
+}
+body {
+background-color: black;
+}
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
