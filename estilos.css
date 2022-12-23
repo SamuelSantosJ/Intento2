@@ -1,16 +1,19 @@
 h1 {
-  color: rgb(18, 71, 116);
+  color: rgb(255, 0, 0);
 }
-h2 {
-  color: blanchedalmond;
+
+body {
+  background-color: rgb(92, 92, 62);
 }
 
 p {
-  color: rgba(34, 41, 138, 0.418);
+  color:rgb(255, 0, 0)e
 }
-body {
-  background-color: darkkhaki;
+
+a {
+  color:greenyellow
 }
+
 * {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
